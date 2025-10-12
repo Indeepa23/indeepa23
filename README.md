@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/1*yw0TnheAGN-LPneDaTlaxw.gif)
+<center>![MasterHead](https://miro.medium.com/v2/1*yw0TnheAGN-LPneDaTlaxw.gif)</center>
 # Hi there 👋 It's me Indeepa Adhikari
 **Software Engineering Student @ Java Institute of Advanced Technology**
 
