@@ -1,4 +1,4 @@
-![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3NwaGdob3NqNGpkZmtneXpoc2FjNHpuMXp2dDQ3dWNpZmtvZnZsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QIcNvyoZ1nGLpnti8W/giphy.gif)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40oninross%2Fdo-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63&psig=AOvVaw0bODesrbf5oR-RRHPT_WLm&ust=1760350451751000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjX9I_Mtp6QAxVwUGwGHY_YBtIQjRx6BAgAEBk)
 # Hi there 👋 It's me Indeepa Adhikari
 **Software Engineering Student @ Java Institute of Advanced Technology**
 
