@@ -6,7 +6,6 @@
 
 - 👨‍💻 I'm currently learning **Coding**
 - 🎓 I'm an Undergraduate at JIAT
-- 🌱 One of the CTO of Endaevor Software Solutions
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: indeepa.adhi@gmail.com
 
